@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Yuan Kai — AI Forward Deployed Engineer</title>
+  <desc id="desc">A dark technical canvas with a luminous signal path and the phrase From ambiguity to working systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101825"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68e8d0"/><stop offset="1" stop-color="#91a7ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a9c9e8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="18" fill="url(#grid)"/>
+  <path d="M0 344H1200" stroke="#a9c9e8" stroke-opacity=".12"/>
+  <circle cx="65" cy="61" r="5" fill="#76e8ce"/>
+  <text x="82" y="66" fill="#9fb4c8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="3">FIELD NOTES / AI ENGINEERING</text>
+  <text x="62" y="170" fill="#f3f8fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">YUAN KAI<tspan fill="#75e4ce">.</tspan></text>
+  <text x="66" y="213" fill="#85e7d2" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="2">AI FORWARD DEPLOYED ENGINEER</text>
+  <text x="66" y="263" fill="#bac9d7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21">From ambiguity to working systems.</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M720 242L803 184L883 219L964 133L1084 167" opacity=".85"/>
+    <path d="M720 242L803 279L883 219L964 278L1084 167" opacity=".3"/>
+    <circle cx="720" cy="242" r="5" fill="#68e8d0"/><circle cx="803" cy="184" r="5" fill="#68e8d0"/><circle cx="883" cy="219" r="8" fill="#101825"/><circle cx="964" cy="133" r="5" fill="#91a7ff"/><circle cx="1084" cy="167" r="5" fill="#91a7ff"/>
+  </g>
+  <g fill="#8196ab" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.5"><text x="66" y="385">BUILD WITH INTENT</text><text x="1025" y="385">YK / 01</text></g>
+</svg>
